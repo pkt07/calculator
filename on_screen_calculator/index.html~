@@ -35,8 +35,8 @@
  <input type="button" id="minus" 	class="sym" 	value="-" onclick="runMinus()" >
  <input type="button" id="divide" 	class="sym" 	value="/" onclick="runDivide()" >
  <input type="button" id="multiply" 	class="sym" 	value="*" onclick="runMultiply()">
- 
-    <input type="button" id="equal" 	class="eqal"	value="=" onclick="runEquals()">
+  <input type="button" id="equal" 	class="eqal"	value="=" onclick="runEquals()">
+    <input type="button" id="d" 	class="dec"	value="." onclick="rund()">
 
   </div> <!--  END opercase --> 
       
